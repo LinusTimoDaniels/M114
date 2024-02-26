@@ -1,7 +1,7 @@
 # M114
 
 ## 19.02.2024
-[Week 1](/KW08/Aufgaben.md)
+[Week 1](/KW08/README)
 
 ### Ablauf
 - Einfürung Hex, Binär und Dezimalsystem
