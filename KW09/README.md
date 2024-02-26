@@ -1,23 +1,15 @@
 # KW09 Arbeitsblatt
 
-## Theorie: [A_DATEN_CODIEREN_NUM](./A_DATEN_CODIEREN_NUM.pdf)
-## Aufgaben: [A_DATEN_CODIEREN_NUM_ANNEX](./A_DATEN_CODIEREN_NUM_ANNEX.pdf)
+## Theorie: [A_DATEN_CODIEREN_TXT](./A_DATEN_CODIEREN_TXT.pdf)
+## Aufgaben: [A_DATEN_CODIEREN_TXT_ANNEX](./A_DATEN_CODIEREN_TXT_ANNEX.pdf)
+
+## Theorie: [B_DATEN_KOMPRIMIEREN](./B_DATEN_KOMPRIMIEREN.pdf)
+## Aufgaben: [B_DATEN_KOMPRIMIEREN_ANNEX](./B_DATEN_KOMPRIMIEREN_ANNEX.pdf)
 
 ## Inhaltsverzeichnis
 - [X] [Aufgabe 1](#Aufgabe-1---ASCII-Tabelle)
 - [X] [Aufgabe 2](#Aufgabe-2---UNI-Code-Tabelle)
 - [X] [Aufgabe 3](#Aufgabe-3---Codesysteme-Analysieren)
-- [X] [Aufgabe 4](#Aufgabe-4)
-- [X] [Aufgabe 5](#Aufgabe-5)
-- [X] [Aufgabe 6](#Aufgabe-6)
-- [X] [Aufgabe 7](#Aufgabe-7)
-- [X] [Aufgabe 8](#Aufgabe-8)
-- [X] [Aufgabe 9](#Aufgabe-9)
-- [X] [Aufgabe 10](#Aufgabe-10)
-- [ ] [Aufgabe 11](#Aufgabe-11)
-- [ ] [Aufgabe 12](#Aufgabe-12)
-- [ ] [Aufgabe 13](#Aufgabe-13)
-- [ ] [Aufgabe 14](#Aufgabe-14)
 - [X] [Reflexion](#Reflexion)
 
 ### Aufgabe 1 - ASCII Tabelle
@@ -59,7 +51,7 @@ c. Was sind die jeweiligen Dateigrössen? (Beachten sie, dass unter Grösse auf
 Datenträger jeweils 0 Bytes angegeben wird. Dies darum, weil beim WindowsDateisystem NTFS kleine Dateien direkt in die MFT (Master File Table)
 geschrieben werden.) Wie erklären sie sich die Unterschiede?
 
-- 68 Bytes: [Textsample 2](./Textsamples/Textsample2)
+- 68 Bytes: [Textsample 1](./Textsamples/Textsample1)
 
 - 71 Bytes: [Textsample 2](./Textsamples/Textsample2)
 
@@ -96,3 +88,10 @@ UTF-8:
 - Zeichen mit einem Codepunkt zwischen 128 und 2047 werden mit zwei Bytes dargestellt, wobei das erste Byte die Sequenz mit '110' beginnt und das zweite mit '10'.
 - Zeichen mit einem Codepunkt zwischen 2048 und 65535 werden mit drei Bytes dargestellt, beginnend mit '1110' im ersten Byte, gefolgt von zwei Bytes, die mit '10' beginnen.
 - Zeichen mit einem Codepunkt zwischen 65536 und 1114111 werden mit vier Bytes dargestellt, beginnend mit '11110' im ersten Byte, gefolgt von drei Bytes, die mit '10' beginnen.
+
+### Reflexion
+
+- Ich habe gelernt was Byteorder ist.
+- Ich habe gelernt, was Unterschiede sind zwischen ASCII / ANSI, UTF-8 und UTF-16.
+- Ich habe mir die verscheidenen ISO Versionen von ASCII angesehen.
+- Ich habe gelernt wie Kompremierung funktioniert (Huffman-Baum)
