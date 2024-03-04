@@ -16,3 +16,13 @@
 - Selbstständiges arbeiten (Aufgaben von letzter Woche fertig machen)
 - Selbständiges arbeiten an den Aufgaben
 - Einfürung Kompremierung
+
+## 26.02.2024
+[Week 3 / 03.03.2024](/KW010/README.md)
+
+### Ablauf
+- Repetition VLC / Hufmann Verschlüsselung
+- Einführung RLE / RLC
+- Repetition UTF-16 und BOM (Byte order)
+- Selbstständiges arbeiten (Aufgaben von letzter Woche fertig machen)
+- Prüfung
