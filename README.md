@@ -18,7 +18,7 @@
 - Einfürung Kompremierung
 
 ## 26.02.2024
-[Week 3 / 03.03.2024](/KW010/README.md)
+[Week 3 / 03.03.2024](/KW10/README.md)
 
 ### Ablauf
 - Repetition VLC / Hufmann Verschlüsselung
