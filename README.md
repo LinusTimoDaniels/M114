@@ -17,8 +17,8 @@
 - Selbständiges arbeiten an den Aufgaben
 - Einfürung Kompremierung
 
-## 26.02.2024
-[Week 3 / 03.03.2024](/KW10/README.md)
+## 04.03.2024
+[Week 3 / 04.03.2024](/KW10/README.md)
 
 ### Ablauf
 - Repetition VLC / Hufmann Verschlüsselung
@@ -26,3 +26,10 @@
 - Repetition UTF-16 und BOM (Byte order)
 - Selbstständiges arbeiten (Aufgaben von letzter Woche fertig machen)
 - Prüfung
+
+## 11.03.2024
+[Week 4 / 03.03.2024](/KW10/README.md)
+
+### Ablauf
+- Unterschied Bild vom Drucker vs Digital vom Beamer (RGB vs. CMYK)
+- 
