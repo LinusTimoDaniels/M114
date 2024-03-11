@@ -100,6 +100,5 @@ und JPG an. Wo liegen die Unterschiede und was sind die Verwendungszwecke?
 
 
 ### Reflexion
-- Ich habe vieles über UTF-16 und BOM (Byte order) gelernt
-- Ich fand, die Prüfung hatte ein wenig zu wenige mögliche Punkte zu erreichen, war aber gut geschrieben.
-- Ich habe repetiert, wie man im Oktal-System rechnet und umrechnet
+- Ich habe gelernt, wie Bilder Komprimiert werden
+- Ich habe gelernt, wie BWT funktioniert

@@ -32,4 +32,5 @@
 
 ### Ablauf
 - Unterschied Bild vom Drucker vs Digital vom Beamer (RGB vs. CMYK)
-- 
+- Selbstständiges arbeiten
+- Prüfung
