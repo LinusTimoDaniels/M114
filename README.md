@@ -28,7 +28,15 @@
 - Prüfung
 
 ## 11.03.2024
-[Week 4 / 03.03.2024](/KW10/README.md)
+[Week 4 / 11.03.2024](/KW10/README.md)
+
+### Ablauf
+- Unterschied Bild vom Drucker vs Digital vom Beamer (RGB vs. CMYK)
+- Selbstständiges arbeiten
+- Prüfung
+
+## 19.03.2024
+[Week 5 / 18.03.2024](/KW10/README.md)
 
 ### Ablauf
 - Unterschied Bild vom Drucker vs Digital vom Beamer (RGB vs. CMYK)
