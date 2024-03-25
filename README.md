@@ -28,17 +28,25 @@
 - Prüfung
 
 ## 11.03.2024
-[Week 4 / 11.03.2024](/KW10/README.md)
+[Week 4 / 11.03.2024](/KW11/README.md)
 
 ### Ablauf
 - Unterschied Bild vom Drucker vs Digital vom Beamer (RGB vs. CMYK)
 - Selbstständiges arbeiten
 - Prüfung
 
-## 19.03.2024
-[Week 5 / 18.03.2024](/KW10/README.md)
+## 18.03.2024
+[Week 5 / 18.03.2024](/KW12/README.md)
 
 ### Ablauf
 - Unterschied Bild vom Drucker vs Digital vom Beamer (RGB vs. CMYK)
+- Selbstständiges arbeiten
+- Prüfung
+
+## 25.03.2024
+[Week 6 / 25.03.2024](/KW13/README.md)
+
+### Ablauf
+- Input Verschlüsselung (Cäsar / vingere / XOR)
 - Selbstständiges arbeiten
 - Prüfung

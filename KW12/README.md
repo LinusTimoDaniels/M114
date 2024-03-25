@@ -1,4 +1,4 @@
-# KW10 Arbeitsblatt
+# KW12 Arbeitsblatt
 
 ## Theorie: [B_DATEN_KOMPRIMIEREN](./../KW11/C_BILDER_CODIEREN.pdf)
 ## Aufgaben: [B_DATEN_KOMPRIMIEREN_ANNEX](./../KW11/C_BILDER_CODIEREN_ANNEX.pdf)
