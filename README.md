@@ -50,3 +50,17 @@
 - Input Verschlüsselung (Cäsar / vingere / XOR)
 - Selbstständiges arbeiten
 - Prüfung
+
+## 08.04.2024
+[Week 8 / 08.04.2024](/KW15/README.md)
+
+### Ablauf
+- Input TLS-Zertifikate (SwissSignAG / let's Encrypt)
+- Selbstständiges arbeiten
+- Input PGP
+
+## 29.04.2024
+[Week 11 / 29.04.2024](/KW15/README.md)
+
+### Ablauf
+ÜBUNGEN BIS AUFGABE 20 LÖSEN / SEITE 3
