@@ -63,4 +63,11 @@
 [Week 11 / 29.04.2024](/KW15/README.md)
 
 ### Ablauf
-ÜBUNGEN BIS AUFGABE 20 LÖSEN / SEITE 3
+
+## 29.04.2024
+[Week 13 / 06.05.2024](/KW19/README.md)
+
+### Ablauf
+- Theorieprüfung
+- Praxisprüfung
+- Email Verschlüsseln
